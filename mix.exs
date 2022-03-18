@@ -43,7 +43,7 @@ defmodule GoogleProtos.MixProject do
       maintainers: ["Tony Han"],
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/coingaming/google-protos/tree/v#{@version}"},
-      files: ~w(mix.exs README.md lib config LICENSE)
+      files: ~w(mix.exs README.md lib config LICENSE VERSION)
     ]
   end
 end
